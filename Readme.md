@@ -6,6 +6,6 @@ OHJEET:
 
 2. Lataa GuzzleHttp 6 version guzzle.zip  osoitteesta https://github.com/guzzle/guzzle/releases/tag/6.5.1 tai https://github.com/guzzle/guzzle/releases/tag/6.4.1 ja pura se työhakemistoosi.
 
-3. Lataa kirjasto getallheaders osoittesta https://github.com/ralouphie/getallheaders ja tallenna sen 'sisin' (siltä varalta että sinun pakkausohjelma luo näitä kaksi) getallheaders-develop työhakemistoosi.
+3. Lataa kirjasto getallheaders osoittesta https://github.com/ralouphie/getallheaders ja tallenna sen 'sisin' getallheaders-develop  (siltä varalta että sinun pakkausohjelma luo näitä kaksi) -hakemisto työhakemistoosi.
 
 4. Tämän jälkeen avaa tiedosto guzzle.php selaimellasi.
