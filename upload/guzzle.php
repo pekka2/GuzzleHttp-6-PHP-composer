@@ -61,7 +61,9 @@ $copy = array(
 $path = dirname(__FILE__);
 
 foreach($mkdir as $dir){
-    mkdir($path . '/' . $dir);
+    if(!is_dir($path . '/' . $dir)){
+       mkdir($path . '/' . $dir);
+    }
 }
 
 $i = 0;
