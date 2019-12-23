@@ -3,9 +3,7 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-$mkdir = array("vendor",
-               "vendor/composer",
-               "vendor/guzzlehttp",
+$mkdir = array("vendor/guzzlehttp",
                "vendor/psr",
                "vendor/ralouphie",
                "vendor/guzzlehttp/guzzle",
